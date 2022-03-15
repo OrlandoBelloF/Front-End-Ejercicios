@@ -1,0 +1,131 @@
+button {
+    background: #2848c6;
+    color: white;
+    border-radius: 8px;
+    display:flex;
+    padding: 5px 30px 5px 30px;
+    font-size: 16px;
+    margin:0 6% 0 2%;
+  }
+.flex{
+    width: 100%;
+    display: inline-flex;
+    align-items: center;
+    background: linear-gradient(90deg, white, #e9f1fc);
+}
+.end{
+    width: 100%;
+    height: 50%;
+    flex-wrap: wrap;
+    display: inline-flex;
+    align-items: center;
+    background:  #e9f1fc;
+}
+.vaccination{
+    font-family: sans-serif;
+    font-size: 25px;
+    font-weight: 1000;
+    color: #3f5ed7;
+    width: 100%;
+    height: 100px;
+    line-height: 100px;
+    margin:0 6%;
+}
+
+.nav{
+    font-family: sans-serif;
+    font-size: 15px;
+    font-weight: 700;
+    color: #818ea2;
+    width: 50px;
+    height: 100%;
+    line-height: 100px;
+    margin:0 6%;
+}
+.blue{
+    font-family: sans-serif;
+    font-size: 30px;
+    font-weight: 900;
+    color: #1f3e72;
+    margin:0 20%;
+}
+.gray{
+    font-family: sans-serif;
+    font-size: 15px;
+    font-weight: 700;
+    color: #818ea2;
+   
+}
+.schedule{
+    width: 30%;
+    display: inline-flex;
+    justify-content: space-between; 
+    align-items: center;
+    background: linear-gradient(90deg, white, #e9f1fc);
+    margin-left: 20%;
+    border-color: #e9f1fc;
+    border-width: 3px; /* this allows you to adjust the thickness */
+    border-style: solid;
+}
+.benefits{
+    width: 90%;
+    display: inline-flex;
+    justify-content: space-between; 
+    align-items: center;
+    margin-left: 7%;
+}
+.item{
+    border-color: #e9f1fc;
+    border-width: 3px; 
+    border-style: solid;
+    width: 270px;
+    height: 270px;
+}
+.itemv{
+    border-color: #e9f1fc;
+    border-width: 3px; 
+    border-style: solid;
+    width: 480px;
+    height: 50px;
+}
+.prep{
+    width: 56%;
+    height: 50%;
+    display: inline-flex;
+    flex-wrap: wrap;
+    justify-content: space-between; 
+    align-items: center;
+    justify-content: center;
+    margin-left: 43%;
+}
+.contact{
+    width: 40%;
+    display: inline-flex;
+    flex-wrap: wrap;
+    margin-left: 20%;
+}
+.pic1{
+    position: relative;
+    left: 53.5%;
+    margin-top: -49%;
+    width: 619px;
+}
+.pic2{
+    position: relative;
+    left: 3.5%;
+    margin-top: -30%;
+    width: 619px;
+}
+.icons1{
+    position: relative;
+    left: 13.5%;
+    margin-top: 1%;
+    width : 80%;
+}
+/*
+div {
+    border-color:#ff3366;
+    border-width: 1px; /* this allows you to adjust the thickness 
+    border-style: solid;
+}
+*/
